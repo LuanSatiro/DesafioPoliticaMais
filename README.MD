@@ -1,10 +1,10 @@
 ## **Desenvolvido por Luan Satiro.**
 
-### *para execução:*
+### *para execução (abra o Prompt):*
 
 - cd desktop
 - git clone https://github.com/LuanSatiro/DesafioPoliticaMais
- -cd DesafioPoliticaMais
+- cd DesafioPoliticaMais
 - npm install
 - npm start
 
